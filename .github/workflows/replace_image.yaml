@@ -1,0 +1,22 @@
+name: replace-dalle-image
+run-name: replace dalle image
+on: [push]
+
+jobs:
+  run-script-and-push:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v3
+        with:
+          node-version: '16.19.0'
+      - run: npm ci --production
+      - run: node generate_image.js
+        env:
+          OPENAI_API_KEY: ${{ secrets.OPENAI_API_KEY }}
+      - uses: EndBug/add-and-commit@v9
+        with:
+          add: "dalle-vis.png"
+          message: "Actions: replace dalle image"
+          push: true
+
