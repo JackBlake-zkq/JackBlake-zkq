@@ -7,12 +7,12 @@ const end = "<!-- end prompt -->"
 
 const raw = fs.readFileSync("./README.md").toString()
 
-const for_prompt = raw.slice(raw.indexOf(start) + start.length, raw.indexOf(end)).trim()
+const prompt = raw.slice(raw.indexOf(start) + start.length, raw.indexOf(end)).trim()
 
 const openai = new OpenAI()
 
 const url = (await openai.images.generate({ 
-    prompt: "Generate a graphic with no text to represent someone with this GitHub Bio:\n\n" + for_prompt,
+    prompt,
     model: "dall-e-3",
 })).data[0].url
 
