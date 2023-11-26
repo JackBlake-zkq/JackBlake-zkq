@@ -2,7 +2,7 @@
 
 <!-- start prompt -->
 
-<!-- Generate a graphic to represent someone with this GitHub Bio: -->
+<!-- Generate a gradient silhouette graphic to represent someone with this GitHub Bio: -->
 
 - Use [my chrome extension](https://chromewebstore.google.com/detail/uw-madison-course-search/ldnllmdimjknflobmdjnmefeollalodf?pli=1) if you are a UW student or just check out [the code](https://github.com/JackBlake-zkq/cse-plus)
 - Check out [my LinkedIn](https://www.linkedin.com/in/jack-h-blake/) (I refuse to post on any social media but you can see my professional history)
