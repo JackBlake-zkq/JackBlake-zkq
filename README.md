@@ -2,7 +2,7 @@
 
 <!-- start prompt -->
 
-<!-- Generate a gradient silhouette graphic to represent someone with this GitHub Bio: -->
+<!-- Generate a Matrix-style graphic to represent someone with this GitHub Bio: -->
 
 - :bulb: I'm a mission driven developer who loves learning
 - :fire: Use [my chrome extension](https://chromewebstore.google.com/detail/uw-madison-course-search/ldnllmdimjknflobmdjnmefeollalodf?pli=1) if you are a UW student or just check out [the code](https://github.com/JackBlake-zkq/cse-plus)
