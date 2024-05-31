@@ -2,18 +2,17 @@
 
 <!-- start prompt -->
 
-<!-- Generate a Matrix-style graphic to represent someone with this GitHub Bio: -->
+<!-- Generate a colorful silhouette graphic to represent someone with this GitHub Bio: -->
 
 - :bulb: I'm a mission driven developer who loves learning
-- :fire: Use [my chrome extension](https://chromewebstore.google.com/detail/uw-madison-course-search/ldnllmdimjknflobmdjnmefeollalodf?pli=1) if you are a UW student or just check out [the code](https://github.com/JackBlake-zkq/cse-plus)
 - :mailbox: Check out [my LinkedIn](https://www.linkedin.com/in/jack-h-blake/) for my professional and academic background
-- :recycle: I've done some cool work with [Data Science for Sustainable Development](https://dssdglobal.org/) aka DSSD
-    - :construction_worker: I architected [this web framework](https://github.com/DSSD-Madison/student-hub-website-framework). It's meant for DSSD's student chapters but has great learning resources, infrastructure, and step-by-step instructions for the development of any content focussed website
-    - ☀️ I led the development of a couple solar dashboards, each with unique challanges
-        - :robot: [this one](https://github.com/DSSD-Madison/couillard) has some cool webscraping and GitHub Actions stuff going on
-        - :satellite: [this one](https://github.com/DSSD-Madison/Helios) deals with fetching dozens of files over the internet concurrently from hardware on campus
-    - :dove: Had something like 30 PRs merged for the [Eirene Peacebuilding Database](https://eirene.allianceforpeacebuilding.org/) project
-        - unfortunately it's a private repo but you could delve into my Contribution Activity for summer 2022 if you really wanted to fact check, or just hit me up on LinkedIn and I can connect you with people who can verify
+- :fire: Use [my chrome extension](https://chromewebstore.google.com/detail/uw-madison-course-search/ldnllmdimjknflobmdjnmefeollalodf?pli=1) if you are a UW student or just check out [the code](https://github.com/JackBlake-zkq/cse-plus)
+- 🔧 Always wanted to host a Minecraft server, but didn't want to pay or spend hours configuring your network? try [my docker image](https://github.com/JackBlake-zkq/easy-mcs)
+- :recycle: I've done some cool volunteer work with [Data Science for Sustainable Development](https://dssdglobal.org/) aka DSSD (in addition to having interned there)
+    - :construction_worker: Architected [this web framework](https://github.com/DSSD-Madison/student-hub-website-framework). It's meant for DSSD's student chapters but has great learning resources, infrastructure, and step-by-step instructions for the development of any content focussed website
+    - :robot: Led development of [this solar dashboard](https://couillard-b61b8.web.app/) for [Couillard Solar Foundation](https://couillardsolarfoundation.org/), which has some cool webscraping and GitHub Actions stuff going on ([repo](https://github.com/DSSD-Madison/couillard))
+    - 🌎 Adapted an existing repo to create [this interactive map](https://redcoralmap.web.app/) of organized crime in South America ([repo](https://github.com/DSSD-Madison/Red-CORAL))
+     
 
 <!-- end prompt -->
 
