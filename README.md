@@ -2,7 +2,7 @@
 
 <!-- start prompt -->
 
-<!-- Generate a colorful silhouette graphic to represent someone with this GitHub Bio: -->
+<!-- Generate a colorful futuritic graphic to represent someone with this GitHub Bio: -->
 
 - Join 500+ Wisconsin students using [my chrome extension](https://chromewebstore.google.com/detail/uw-madison-course-search/ldnllmdimjknflobmdjnmefeollalodf?pli=1) | [repo](https://github.com/JackBlake-zkq/cse-plus)
 - [LLM Watermarking Insights](https://github.com/JackBlake-zkq/synthid-text)
